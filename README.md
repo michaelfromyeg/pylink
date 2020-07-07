@@ -31,7 +31,7 @@ pip freeze > requirements.txt
 
 ## Usage
 
-Run `python link.py -i <input file> -o <output file>`, where 'input file' is the name of a CSV file containing professor names.
+Run `python link.py -i <input file> -o <output file>`, where 'input file' is the name of a CSV file containing URLs under ece.ubc.ca.
 
 ### Example
 
