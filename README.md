@@ -1,6 +1,6 @@
-# site-tester
+# pylink
 
-Another Python project to automate stuff I'm too lazy to do by hand.
+Another Python project to automate stuff I'm too lazy to do by hand. Take a list of URLs, and generate a report of their status (tailored to UBC ECE).
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
 
